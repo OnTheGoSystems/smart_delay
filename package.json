@@ -1,6 +1,6 @@
 {
   "name": "@tarvit/smart_delay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple library for delaying operations",
   "main": "index.js",
   "scripts": {

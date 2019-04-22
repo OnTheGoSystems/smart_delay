@@ -1,5 +1,6 @@
 # SmartDelay
 ## Simple library for delaying operations
+When you need to ensure execution of some operation only once per interval just call a single method and don't care about intervals and timeouts. 
 
 # Usage example
 
