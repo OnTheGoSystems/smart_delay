@@ -4,7 +4,7 @@
   "description": "Simple library for delaying operations",
   "main": "index.js",
   "scripts": {
-    "prepublish": "yarn build && yarn test",
+    "prepublish": "yarn build",
     "build": "cross-env BABEL_ENV=production babel src --out-dir lib"
   },
   "repository": {
