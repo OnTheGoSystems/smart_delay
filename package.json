@@ -1,6 +1,6 @@
 {
   "name": "@tarvit/smart_delay",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Simple library for delaying operations",
   "main": "index.js",
   "scripts": {
@@ -15,10 +15,12 @@
     "index.js", "lib/smart_delay.js"
   ],
   "keywords": [
-    "state",
-    "datastore",
-    "FLUX",
-    "publish/subscribe"
+    "timeout",
+    "settimeout",
+    "setinterval",
+    "delayed",
+    "delay",
+    "worker"
   ],
   "author": "Vitaly Tarasenko <vetal.tarasenko@gmail.com>",
   "license": "MIT",
